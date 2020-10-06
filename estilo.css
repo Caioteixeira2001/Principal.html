@@ -1,0 +1,42 @@
+body{background-image:url(https://i.imgur.com/CZU3qoQ.jpg);
+background-size: 110%;}
+
+.port{ 
+    position: absolute;
+    left: 125px;
+    top: 480px;
+    height: 45px;
+    width: 110px;
+    cursor: pointer;
+    font-family: 'Peddana', serif;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    background: #377661;
+    border-radius: 25px;
+    outline: none;}
+
+.port:hover{
+    background: #0e533b; 
+    color: #fff;}
+
+.me{ color: #377661 ;
+    font-family: 'Peddana', serif; 
+    font-size: 30px;
+    border:none;
+    outline: none;}
+
+.contact{ background: rgba(128, 255, 0, 0);
+    font-family: 'Peddana', serif ;
+    font-size: 30px;
+    border:none;
+    outline: none;}
+
+.text1{ font-style: inherit;
+    left: 23%;
+    position:absolute;
+    font-family: 'Peddana', serif;
+    font-size: 30px;
+    word-spacing: 30px;}
